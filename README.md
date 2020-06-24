@@ -15,11 +15,15 @@ Contributions are welcome.  If you wish to contribute, feel free to send a pull 
 ## Papers
 
 #### Aesthetic Evaluation
++ Kekai Sheng, Weiming Dong, Menglei Chai, Guohui Wang, Peng Zhou, Feiyue Huang, Bao-Gang Hu, Rongrong Ji, Chongyang Ma: "*Revisiting Image Aesthetic Assessment via Self-Supervised Feature Learning.*" AAAI (2020) [[pdf]](https://arxiv.org/pdf/1911.11419.pdf)
++ Qiuyu Chen, Wei Zhang, Ning Zhou, Peng Lei, Yi Xu, Yu Zheng, Jianping Fan: "*Adaptive Fractional Dilated Convolution Network for Image Aesthetics Assessment.*" CoRR abs/2004.03015 (2020) [[pdf]](https://arxiv.org/pdf/2004.03015.pdf)
++ Xin Jin, Le Wu, Geng Zhao, Xiaodong Li, Xiaokun Zhang, Shiming Ge, Dongqing Zou, Bin Zhou, Xinghui Zhou: "*Aesthetic Attributes Assessment of Images.*" ACM MM (2019) [[pdf]](https://arxiv.org/pdf/1907.04983.pdf) 
 + Katja Thömmes* and Ronald Hübner: "*Instagram Likes for Architectural Photos Can Be Predicted by Quantitative Balance Measures and Curvature*", Front Psychol (2018) [[pdf]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6024014/)
 + Anselm Brachmann and Christoph Redies: "*Computational and Experimental Approaches to Visual Aesthetics.*"  Front Hum Neurosci (2017) [[pdf]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5694465/)
 + Anselm Brachmann, Erhardt Barth, Christoph Redies: "*Using CNN Features to Better Understand What Makes Visual Artworks Special.*" Front Psychol (2017) [[pdf]](https://pubmed.ncbi.nlm.nih.gov/28588537/)
 + Long Mai, Hailin Jin, Feng Liu: "*Composition-Preserving Deep Photo Aesthetics Assessment.*" CVPR (2016) [[pdf]](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Mai_Composition-Preserving_Deep_Photo_CVPR_2016_paper.pdf)
 + Shu Kong, Xiaohui Shen, Zhe L. Lin, Radomír Mech, Charless C. Fowlkes: "*Photo Aesthetics Ranking Network with Attributes and Content Adaptation.*" ECCV (2016) [[pdf]](https://arxiv.org/pdf/1606.01621.pdf) [[code]](https://github.com/aimerykong/deepImageAestheticsAnalysis)
++ Naila Murray, Luca Marchesotti, Florent Perronnin: "*AVA: A large-scale database for aesthetic visual analysis.*" CVPR (2012) [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6247954)
 
 
 
@@ -37,17 +41,31 @@ Contributions are welcome.  If you wish to contribute, feel free to send a pull 
 + Chen Fang, Zhe Lin, Radomír Mech, Xiaohui Shen: "*Automatic Image Cropping using Visual Composition, Boundary Simplicity and Content Preservation Models.*" ACM MM (2014) [[pdf]](http://fangchen.org/paper_pdf/FLMS_mm14.pdf)
 + Bongwon Suh, Haibin Ling, Benjamin B. Bederson, David W. Jacobs: "*Automatic thumbnail cropping and its effectiveness.*" UIST (2003) [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.12.2949&rep=rep1&type=pdf)
 
+#### Aesthetic Captioning
++ Xin Jin, Le Wu, Geng Zhao, Xiaodong Li, Xiaokun Zhang, Shiming Ge, Dongqing Zou, Bin Zhou, Xinghui Zhou: "*Aesthetic Attributes Assessment of Images. *" ACM MM (2019) [[pdf]](https://arxiv.org/pdf/1907.04983.pdf) [[code]](https://github.com/BestiVictory/DPC-Captions)
++ Kuang-Yu Chang, Kung-Hung Lu, Chu-Song Chen: "*Aesthetic Critiques Generation for Photos.*" ICCV (2017) [[pdf]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Chang_Aesthetic_Critiques_Generation_ICCV_2017_paper.pdf) [[code]](https://github.com/kunghunglu/DeepPhotoCritic-ICCV17)
+
 
 ## Datasets
 densely annotated (multiple crops in each image are annotated)
+
 + FLMS
 + CPC [[link]](https://github.com/zijunwei/ViewEvaluationNet)
 
 sparsely annotated (only the best crop in each image is annotated)
+
 + FCDB [[link]](https://github.com/yiling-chen/flickr-cropping-dataset)
 + GAICD [[link]](https://github.com/HuiZeng/Grid-Anchor-based-Image-Cropping)
 
+images with aesthetic caption/attribute
+
++ PCCD [[link]](https://github.com/kunghunglu/DeepPhotoCritic-ICCV17)
++ DPC-Captions [[link]](https://github.com/BestiVictory/DPC-Captions)
+
 ## Other resources
+
+
+
 
 
 
