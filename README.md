@@ -14,7 +14,7 @@ Contributions are welcome.  If you wish to contribute, feel free to send a pull 
 
 ## Papers
 
-#### Aesthetic Evaluation
+#### Image Aesthetic Assessment 
 + Kekai Sheng, Weiming Dong, Menglei Chai, Guohui Wang, Peng Zhou, Feiyue Huang, Bao-Gang Hu, Rongrong Ji, Chongyang Ma: "*Revisiting image aesthetic assessment via self-supervised feature learning.*" AAAI (2020) [[pdf]](https://arxiv.org/pdf/1911.11419.pdf)
 + Qiuyu Chen, Wei Zhang, Ning Zhou, Peng Lei, Yi Xu, Yu Zheng, Jianping Fan: "*Adaptive fractional dilated convolution network for image aesthetics assessment.*" CVPR (2020) [[pdf]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Adaptive_Fractional_Dilated_Convolution_Network_for_Image_Aesthetics_Assessment_CVPR_2020_paper.pdf)
 + Hui Zeng, Zisheng Cao, Lei Zhang, Alan C. Bovik: "*A unified probabilistic formulation of image aesthetic assessment.*" TIP (2020) [[pdf]](https://ieeexplore.ieee.org/abstract/document/8846580) [[code]](https://github.com/HuiZeng/Unified_IAA)
