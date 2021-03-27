@@ -29,6 +29,8 @@ Contributions are welcome.  If you wish to contribute, feel free to send a pull 
 + Ning Yu, Xiaohui Shen, Zhe Lin, Radomir Mech, Connelly Barnes: "*Learning to detect multiple photographic defects.*" WACV (2018) [[pdf]](https://arxiv.org/pdf/1612.01635.pdf)
 + Keunsoo Ko, Jun Tae Lee, Chang-Su Kim: "*PAC-Net: Pairwise aesthetic comparison network for image aesthetic assessment.*" ICIP (2018) [[pdf]](https://ieeexplore.ieee.org/abstract/document/8451621)
 + Hossein Talebi and Peyman Milanfar: "*NIMA: Neural image assessment.*" TIP (2018) [[pdf]](https://ieeexplore.ieee.org/abstract/document/8352823) [[code]](https://paperswithcode.com/paper/nima-neural-image-assessment#code)
++ Katharina Schwarz, Patrick Wieschollek, Hendrik P. A. Lensch: "*Will people like your image? Learning the aesthetic space.*" WACV (2018) [[pdf]](https://arxiv.org/pdf/1611.05203.pdf) [[code]](https://github.com/cgtuebingen/will-people-like-your-image)
++ Guolong Wang, Junchi Yan, Zheng Qin: "*Collaborative and attentive learning for personalized image aesthetic assessment.*" IJCAI (2018) [[pdf]](https://www.ijcai.org/Proceedings/2018/0133.pdf)
 + Shuang Ma, Jing Liu, Chang Wen Chen: "*A-Lamp: Adaptive layout-aware multi-patch deep convolutional neural network for photo aesthetic assessment.*" CVPR (2017) [[pdf]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Ma_A-Lamp_Adaptive_Layout-Aware_CVPR_2017_paper.pdf) [[code]](https://github.com/GuillaumeBalezo/A-Lamp) 
 + Anselm Brachmann and Christoph Redies: "*Computational and experimental approaches to visual aesthetics.*"  Front Hum Neurosci (2017) [[pdf]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5694465/)
 + Anselm Brachmann, Erhardt Barth, Christoph Redies: "*Using CNN features to better understand what makes visual artworks special.*" Front Psychol (2017) [[pdf]](https://pubmed.ncbi.nlm.nih.gov/28588537/)
@@ -40,8 +42,7 @@ Contributions are welcome.  If you wish to contribute, feel free to send a pull 
 + Naila Murray, Luca Marchesotti, Florent Perronnin: "*AVA: A large-scale database for aesthetic visual analysis.*" CVPR (2012) [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6247954)
 + Luca Marchesotti, Florent Perronnin, Diane Larlus, Gabriela Csurka: "*Assessing the aesthetic quality of photographs using generic image descriptors.*" ICCV (2011) [[pdf]](https://ieeexplore.ieee.org/document/6126444)
 + Sagnik Dhar, Vicente Ordonez, Tamara L Berg: "*High level describable attributes for predicting aesthetics and interestingness.*" CVPR (2011) [[pdf]](https://bvisionweb1.cs.unc.edu/home/publications/aesthetics_cvpr11.pdf)
-
-
++ Ritendra Datta, Jia Li, and James Z. Wang: "*Algorithmic inferencing of aesthetics and emotion in natural images: An exposition.*" ICIP (2008) [[pdf]](https://www.ri.cmu.edu/pub_files/pub4/datta_ritendra_2008_2/datta_ritendra_2008_2.pdf)
 
 #### Aesthetic Cropping
 + Yi Tu, Li Niu, Weijie Zhao, Dawei Cheng, Liqing Zhang: "*Image Cropping with Composition and Saliency Aware Aesthetic Score Map.*" AAAI (2020) [[pdf]](https://arxiv.org/pdf/1911.10492.pdf)
@@ -59,8 +60,9 @@ Contributions are welcome.  If you wish to contribute, feel free to send a pull 
 
 #### Aesthetic Captioning
 + Xin Jin, Le Wu, Geng Zhao, Xiaodong Li, Xiaokun Zhang, Shiming Ge, Dongqing Zou, Bin Zhou, Xinghui Zhou: "*Aesthetic Attributes Assessment of Images. *" ACM MM (2019) [[pdf]](https://arxiv.org/pdf/1907.04983.pdf) [[code]](https://github.com/BestiVictory/DPC-Captions)
++ Wenshan Wang, Su Yang, Weishan Zhang, Jiulong Zhang: "*Neural aesthetic image reviewer.*" IET Computer Vision (2019) [[pdf]](https://arxiv.org/pdf/1802.10240.pdf)
 + Kuang-Yu Chang, Kung-Hung Lu, Chu-Song Chen: "*Aesthetic Critiques Generation for Photos.*" ICCV (2017) [[pdf]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Chang_Aesthetic_Critiques_Generation_ICCV_2017_paper.pdf) [[code]](https://github.com/kunghunglu/DeepPhotoCritic-ICCV17)
-
++ Ye Zhou, Xin Lu, Junping Zhang, James Z. Wang: "*Joint image and text representation for aesthetics analysis.*" ACM MM (2016) [[pdf]](https://dl.acm.org/doi/pdf/10.1145/2964284.2967223)
 
 ## Datasets
 densely annotated (multiple crops in each image are annotated)
@@ -73,11 +75,22 @@ sparsely annotated (only the best crop in each image is annotated)
 + FCDB [[link]](https://github.com/yiling-chen/flickr-cropping-dataset)
 + GAICD [[link]](https://github.com/HuiZeng/Grid-Anchor-based-Image-Cropping)
 
-images with aesthetic caption/attribute
+images with aesthetic score/attribute
 
-+ AVA [[link]](https://academictorrents.com/details/71631f83b11d3d79d8f84efe0a7e12f0ac001460), contains about 250,000 images with each image scored by about 210 users.
++ Photo.net [[Dataset Description]](http://wang.ist.psu.edu/~datta/photonet_dataset_description.txt) [[link]](http://wang.ist.psu.edu/~datta/photonet_dataset.txt)
++ DPChallenge [[Dataset Description]](http://wang.ist.psu.edu/~datta/dpchallenge_dataset_description.txt) [[link]](http://wang.ist.psu.edu/~datta/dpchallenge_dataset.txt)
++ CUHK-PQ [[link]](http://mmlab.ie.cuhk.edu.hk/archive/CUHKPQ/Dataset.htm)
++ AVA [[link]](https://academictorrents.com/details/71631f83b11d3d79d8f84efe0a7e12f0ac001460)
++ AADB [[link]](https://github.com/aimerykong/deepImageAestheticsAnalysis)
 + PCCD [[link]](https://github.com/kunghunglu/DeepPhotoCritic-ICCV17)
++ AROD [[link]](https://github.com/cgtuebingen/will-people-like-your-image/tree/master/arod)
+
+images with aesthetic caption
+
++ AVA-Comments [[paper]]()
++ AVA-Reviews [[
 + DPC-Captions [[link]](https://github.com/BestiVictory/DPC-Captions)
++ PCCD [[link]](https://github.com/kunghunglu/DeepPhotoCritic-ICCV17)
 
 
 ## Other resources
