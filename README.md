@@ -32,6 +32,7 @@ Contributions are welcome.  If you wish to contribute, feel free to send a pull 
 + Katharina Schwarz, Patrick Wieschollek, Hendrik P. A. Lensch: "*Will people like your image? Learning the aesthetic space.*" WACV (2018) [[pdf]](https://arxiv.org/pdf/1611.05203.pdf) [[code]](https://github.com/cgtuebingen/will-people-like-your-image)
 + Guolong Wang, Junchi Yan, Zheng Qin: "*Collaborative and attentive learning for personalized image aesthetic assessment.*" IJCAI (2018) [[pdf]](https://www.ijcai.org/Proceedings/2018/0133.pdf)
 + Shuang Ma, Jing Liu, Chang Wen Chen: "*A-Lamp: Adaptive layout-aware multi-patch deep convolutional neural network for photo aesthetic assessment.*" CVPR (2017) [[pdf]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Ma_A-Lamp_Adaptive_Layout-Aware_CVPR_2017_paper.pdf) [[code]](https://github.com/GuillaumeBalezo/A-Lamp) 
++ Jian Ren, Xiaohui Shen, Zhe Lin, Radomir Mech, David J. Foran: "*Personalized image aesthetics.*" ICCV (2017) [[pdf]](https://openaccess.thecvf.com/content_ICCV_2017/papers/Ren_Personalized_Image_Aesthetics_ICCV_2017_paper.pdf) [[code]](https://github.com/alanspike/personalizedImageAesthetics)
 + Anselm Brachmann and Christoph Redies: "*Computational and experimental approaches to visual aesthetics.*"  Front Hum Neurosci (2017) [[pdf]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5694465/)
 + Anselm Brachmann, Erhardt Barth, Christoph Redies: "*Using CNN features to better understand what makes visual artworks special.*" Front Psychol (2017) [[pdf]](https://pubmed.ncbi.nlm.nih.gov/28588537/)
 + Deng Yubin, Chen Change Loy, Xiaoou Tang: "*Image aesthetic assessment: An experimental survey.*" IEEE Signal Processing Magazine (2017) [[pdf]](https://arxiv.org/pdf/1610.00838.pdf) 
@@ -81,14 +82,16 @@ images with aesthetic score/attribute
 + DPChallenge [[Dataset Description]](http://wang.ist.psu.edu/~datta/dpchallenge_dataset_description.txt) [[link]](http://wang.ist.psu.edu/~datta/dpchallenge_dataset.txt)
 + CUHK-PQ [[link]](http://mmlab.ie.cuhk.edu.hk/archive/CUHKPQ/Dataset.htm)
 + AVA [[link]](https://academictorrents.com/details/71631f83b11d3d79d8f84efe0a7e12f0ac001460)
++ FLICKER-AES and REAL-CUR [[link]](https://github.com/alanspike/personalizedImageAesthetics)
 + AADB [[link]](https://github.com/aimerykong/deepImageAestheticsAnalysis)
 + PCCD [[link]](https://github.com/kunghunglu/DeepPhotoCritic-ICCV17)
 + AROD [[link]](https://github.com/cgtuebingen/will-people-like-your-image/tree/master/arod)
 
+
 images with aesthetic caption
 
-+ AVA-Comments [[paper]]()
-+ AVA-Reviews [[
++ AVA-Comments [[paper]](https://dl.acm.org/doi/pdf/10.1145/2964284.2967223)
++ AVA-Reviews [[paper]](https://arxiv.org/pdf/1802.10240.pdf)
 + DPC-Captions [[link]](https://github.com/BestiVictory/DPC-Captions)
 + PCCD [[link]](https://github.com/kunghunglu/DeepPhotoCritic-ICCV17)
 
