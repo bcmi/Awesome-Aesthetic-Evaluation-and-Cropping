@@ -87,12 +87,12 @@ images with aesthetic score/attribute
 + AADB (2016) [[link]](https://github.com/aimerykong/deepImageAestheticsAnalysis)
 + FLICKER-AES and REAL-CUR (2017) [[link]](https://github.com/alanspike/personalizedImageAesthetics)
 + PCCD (2017) [[link]](https://github.com/kunghunglu/DeepPhotoCritic-ICCV17)
-+ AROD (2018) [[project]](https://github.com/cgtuebingen/will-people-like-your-image)
++ AROD (2018) [[link]](https://github.com/cgtuebingen/will-people-like-your-image)
 
 images with aesthetic caption
 
 + AVA-Comments (2016) [[paper]](https://dl.acm.org/doi/pdf/10.1145/2964284.2967223)
-+ PCCD (2017) [[Download link]](https://drive.google.com/file/d/1hap2UGI9XV5XmxKOo54wZW30OXbqNyo8/view?usp=sharing) 
++ PCCD (2017) [[GoogleDrive]](https://drive.google.com/file/d/1hap2UGI9XV5XmxKOo54wZW30OXbqNyo8/view?usp=sharing) 
 + AVA-Reviews (2018) [[paper]](https://arxiv.org/pdf/1802.10240.pdf)
 + DPC-Captions (2019) [[link]](https://github.com/BestiVictory/DPC-Captions) (not available)
 
