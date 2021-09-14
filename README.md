@@ -14,7 +14,9 @@ Contributions are welcome.  If you wish to contribute, feel free to send a pull 
 
 ## Papers
 
-#### Image Aesthetic Assessment 
+#### Image Aesthetic Assessment
++ Dongyu She, Yu-Kun Lai, Gaoxiong Yi, Kun Xu: "*Hierarchical layout-Aware graph convolutional network for unified aesthetics assessment.*" CVPR (2021) [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/She_Hierarchical_Layout-Aware_Graph_Convolutional_Network_for_Unified_Aesthetics_Assessment_CVPR_2021_paper.pdf) 
++ Jingwen Hou, Sheng Yang, Weisi Lin:"*Object-level attention for aesthetic rating distribution prediction.*" ACM MM (2020) [[pdf]](https://dr.ntu.edu.sg/bitstream/10356/144332/2/Object-level%20attention%20for%20aesthetic%20rating%20distribution%20prediction.pdf)
 + Kekai Sheng, Weiming Dong, Menglei Chai, Guohui Wang, Peng Zhou, Feiyue Huang, Bao-Gang Hu, Rongrong Ji, Chongyang Ma: "*Revisiting image aesthetic assessment via self-supervised feature learning.*" AAAI (2020) [[pdf]](https://arxiv.org/pdf/1911.11419.pdf)
 + Qiuyu Chen, Wei Zhang, Ning Zhou, Peng Lei, Yi Xu, Yu Zheng, Jianping Fan: "*Adaptive fractional dilated convolution network for image aesthetics assessment.*" CVPR (2020) [[pdf]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Adaptive_Fractional_Dilated_Convolution_Network_for_Image_Aesthetics_Assessment_CVPR_2020_paper.pdf)
 + Hui Zeng, Zisheng Cao, Lei Zhang, Alan C. Bovik: "*A unified probabilistic formulation of image aesthetic assessment.*" TIP (2020) [[pdf]](https://ieeexplore.ieee.org/abstract/document/8846580) [[code]](https://github.com/HuiZeng/Unified_IAA)
@@ -24,6 +26,7 @@ Contributions are welcome.  If you wish to contribute, feel free to send a pull 
 + Xin Jin, Le Wu, Geng Zhao, Xiaodong Li, Xiaokun Zhang, Shiming Ge, Dongqing Zou, Bin Zhou, Xinghui Zhou: "*Aesthetic attributes assessment of images.*" ACM MM (2019) [[pdf]](https://arxiv.org/pdf/1907.04983.pdf) 
 + Leida Li, Hancheng Zhu, Sicheng Zhao, Guiguang Ding, Hongyan Jiang, Allen Tan: "*Personality driven multi-task learning for image aesthetic assessment.*" ICME (2019) [[pdf]](https://ieeexplore.ieee.org/abstract/document/8784759)
 + Ning Ma, Alexey Volkov, Aleksandr Livshits, Pawel Pietrusinski, Houdong Hu, Mark Bolin: "*An universal image attractiveness ranking framework.*" WACV (2019) [[pdf]](https://arxiv.org/pdf/1805.00309.pdf)
++ Jun-Tae Lee, Han-Ul Kim, Chul Lee, Chang-Su Kim: "*Photographic composition classification and dominant geometric element detection for outdoor scenes.*" JVCIR (2018) [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S1047320318301147)
 + Katja Thömmes* and Ronald Hübner: "*Instagram likes for architectural photos can be predicted by quantitative balance measures and curvature.*" Front Psychol (2018) [[pdf]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6024014/)
 + Kekai Sheng, Weiming Dong, Chongyang Ma, Xing Mei, Feiyue Huang, Bao-Gang Hu: "*Attention-based multi-patch aggregation for image aesthetic assessment.*" ACM MM (2018) [[pdf]](https://openreview.net/pdf/1cc851d9d7bfc5ec17eedc6498b1601fcb84a40b.pdf) [[code]](https://github.com/Openning07/MPADA)
 + Ning Yu, Xiaohui Shen, Zhe Lin, Radomir Mech, Connelly Barnes: "*Learning to detect multiple photographic defects.*" WACV (2018) [[pdf]](https://arxiv.org/pdf/1612.01635.pdf)
@@ -45,18 +48,24 @@ Contributions are welcome.  If you wish to contribute, feel free to send a pull 
 + Sagnik Dhar, Vicente Ordonez, Tamara L Berg: "*High level describable attributes for predicting aesthetics and interestingness.*" CVPR (2011) [[pdf]](https://bvisionweb1.cs.unc.edu/home/publications/aesthetics_cvpr11.pdf)
 + Ritendra Datta, Jia Li, and James Z. Wang: "*Algorithmic inferencing of aesthetics and emotion in natural images: An exposition.*" ICIP (2008) [[pdf]](https://www.ri.cmu.edu/pub_files/pub4/datta_ritendra_2008_2/datta_ritendra_2008_2.pdf)
 
-#### Aesthetic Cropping
-+ Yi Tu, Li Niu, Weijie Zhao, Dawei Cheng, Liqing Zhang: "*Image Cropping with Composition and Saliency Aware Aesthetic Score Map.*" AAAI (2020) [[pdf]](https://arxiv.org/pdf/1911.10492.pdf)
-+ Hui Zeng, Lida Li, Zisheng Cao, Lei Zhang: "*Reliable and Efficient Image Cropping: A Grid Anchor Based Approach.*" CVPR (2019)  [[pdf]](https://arxiv.org/pdf/1909.08989.pdf)  [[code]](https://github.com/HuiZeng/Grid-Anchor-based-Image-Cropping)
-+ Weirui Lu, Xiaofen Xing, Bolun Cai, Xiangmin Xu: "*Listwise View Ranking for Image Cropping.*" IEEE Access 7: 91904-91911 (2019) [[pdf]](https://arxiv.org/pdf/1905.05352.pdf) [[code]](https://github.com/luwr1022/listwise-view-ranking)
-+ Zijun Wei, Jianming Zhang, Xiaohui Shen, Zhe Lin, Radomír Mech, Minh Hoai, Dimitris Samaras: "*Good View Hunting: Learning Photo Composition From Dense View Pairs.*" CVPR (2018) [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wei_Good_View_Hunting_CVPR_2018_paper.pdf) [[code]](https://github.com/zijunwei/ViewEvaluationNet)
-+ Seyed A. Esmaeili, Bharat Singh, Larry S. Davis: "*Fast-At: Fast Automatic Thumbnail Generation Using Deep Neural Networks.*" CVPR (2017) [[pdf]](https://arxiv.org/pdf/1612.04811.pdf)
-+ Wenguan Wang, Jianbing Shen: "*Deep Cropping via Attention Box Prediction and Aesthetics Assessment.*" ICCV (2017) [[pdf]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Wang_Deep_Cropping_via_ICCV_2017_paper.pdf)
-+ Yi-Ling Chen, Jan Klopp, Min Sun, Shao-Yi Chien, Kwan-Liu Ma: "*Learning to Compose with Professional Photographs on the Web.*" ACM MM (2017) [[pdf]](https://arxiv.org/pdf/1702.00503.pdf) [[code]](https://github.com/yiling-chen/view-finding-network)
-+ Yi-Ling Chen, Tzu-Wei Huang, Kai-Han Chang, Yu-Chen Tsai, Hwann-Tzong Chen, Bing-Yu Chen: "*Quantitative Analysis of Automatic Image Cropping Algorithms: A Dataset and Comparative Study.*" WACV (2017) [[pdf]](https://arxiv.org/pdf/1701.01480.pdf)
-+ Jiansheng Chen, Gaocheng Bai, Shaoheng Liang, Zhengqin Li: "*Automatic Image Cropping: A Computational Complexity Study."* CVPR (2016) [[pdf]](https://www.cv-foundation.org/openaccess/content_cvpr_2016/app/S03-33.pdf)
-+ Jonas Abeln, Leonie Fresz, Seyed Ali Amirshahi, Chris McManus, Michael Koch, Helene Kreysa, Christoph Redies: "*Preference for Well-Balanced Saliency in Details Cropped From Photographs.*" Front Hum Neurosci (2016) [[pdf]](https://pubmed.ncbi.nlm.nih.gov/26793086/)
-+ Chen Fang, Zhe Lin, Radomír Mech, Xiaohui Shen: "*Automatic Image Cropping using Visual Composition, Boundary Simplicity and Content Preservation Models.*" ACM MM (2014) [[pdf]](http://fangchen.org/paper_pdf/FLMS_mm14.pdf)
+#### Image Cropping
++ Chaoyi Hong, Shuaiyuan Du, Ke Xian, Hao Lu, Zhiguo Cao, Weicai Zhong: "*Composing photos like a photographer.*" CVPR (2021) [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Hong_Composing_Photos_Like_a_Photographer_CVPR_2021_paper.pdf)
++ Debang Li, Junge Zhang, Kaiqi Huang: "*Learning to learn cropping models for different aspect ratio requirements.*" CVPR (2020) [[pdf]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Learning_to_Learn_Cropping_Models_for_Different_Aspect_Ratio_Requirements_CVPR_2020_paper.pdf)
++ Debang Li, Junge Zhang, Kaiqi Huang, Ming-Hsuan Yang: "*Composing good shots by exploiting mutual relations.*" CVPR (2020) [[pdf]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Composing_Good_Shots_by_Exploiting_Mutual_Relations_CVPR_2020_paper.pdf)
++ Yi Tu, Li Niu, Weijie Zhao, Dawei Cheng, Liqing Zhang: "*Image cropping with composition and saliency aware aesthetic score map.*" AAAI (2020) [[pdf]](https://arxiv.org/pdf/1911.10492.pdf)
++ Hui Zeng, Lida Li, Zisheng Cao, Lei Zhang: "*Grid anchor based image cropping: a new benchmark and an efficient model.*" TPAMI (2020) [[pdf]](https://www4.comp.polyu.edu.hk/~cslzhang/paper/GAIC-PAMI.pdf) [[code]](https://github.com/HuiZeng/Grid-Anchor-based-Image-Cropping-Pytorch)
++ Hui Zeng, Lida Li, Zisheng Cao, Lei Zhang: "*Reliable and efficient image cropping: a grid anchor based approach.*" CVPR (2019)  [[pdf]](https://arxiv.org/pdf/1909.08989.pdf)  [[code]](https://github.com/HuiZeng/Grid-Anchor-based-Image-Cropping) [[code]](https://github.com/HuiZeng/Grid-Anchor-based-Image-Cropping-Pytorch)
++ Weirui Lu, Xiaofen Xing, Bolun Cai, Xiangmin Xu: "*Listwise view ranking for image cropping.*" IEEE Access 7: 91904-91911 (2019) [[pdf]](https://arxiv.org/pdf/1905.05352.pdf) [[code]](https://github.com/luwr1022/listwise-view-ranking) [[code]](https://github.com/luwr1022/listwise-view-ranking)
++ Zijun Wei, Jianming Zhang, Xiaohui Shen, Zhe Lin, Radomír Mech, Minh Hoai, Dimitris Samaras: "*Good view hunting: learning photo composition from dense view pairs.*" CVPR (2018) [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wei_Good_View_Hunting_CVPR_2018_paper.pdf) [[VEN code]](https://github.com/zijunwei/ViewEvaluationNet) [[VPN code]](https://github.com/zijunwei/ViewProposalNet)
++ Debang Li, Huikai Wu, Junge Zhang, Kaiqi Huang: "*A2-RL: aesthetics aware reinforcement learning for image cropping.*" [[pdf]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Li_A2-RL_Aesthetics_Aware_CVPR_2018_paper.pdf) [[code]](https://github.com/wuhuikai/TF-A2RL)
++ Seyed A. Esmaeili, Bharat Singh, Larry S. Davis: "*Fast-At: Fast automatic thumbnail generation using deep neural networks.*" CVPR (2017) [[pdf]](https://arxiv.org/pdf/1612.04811.pdf)
++ Wenguan Wang, Jianbing Shen: "*Deep cropping via attention box prediction and aesthetics assessment.*" ICCV (2017) [[pdf]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Wang_Deep_Cropping_via_ICCV_2017_paper.pdf)
++ Yi-Ling Chen, Jan Klopp, Min Sun, Shao-Yi Chien, Kwan-Liu Ma: "*Learning to compose with professional photographs on the web.*" ACM MM (2017) [[pdf]](https://arxiv.org/pdf/1702.00503.pdf) [[code]](https://github.com/yiling-chen/view-finding-network) [[code]](https://github.com/yiling-chen/view-finding-network)
++ Yi-Ling Chen, Tzu-Wei Huang, Kai-Han Chang, Yu-Chen Tsai, Hwann-Tzong Chen, Bing-Yu Chen: "*Quantitative analysis of automatic image cropping algorithms: a dataset and comparative study.*" WACV (2017) [[pdf]](https://arxiv.org/pdf/1701.01480.pdf)
++ Jiansheng Chen, Gaocheng Bai, Shaoheng Liang, Zhengqin Li: "*Automatic image cropping: a computational complexity study."* CVPR (2016) [[pdf]](https://www.cv-foundation.org/openaccess/content_cvpr_2016/app/S03-33.pdf)
++ Jonas Abeln, Leonie Fresz, Seyed Ali Amirshahi, Chris McManus, Michael Koch, Helene Kreysa, Christoph Redies: "*Preference for well-balanced saliency in details cropped from photographs.*" Front Hum Neurosci (2016) [[pdf]](https://pubmed.ncbi.nlm.nih.gov/26793086/)
++ Chen Fang, Zhe Lin, Radomír Mech, Xiaohui Shen: "*Automatic image Cropping using visual composition, boundary simplicity and content preservation models.*" ACM MM (2014) [[pdf]](http://fangchen.org/paper_pdf/FLMS_mm14.pdf)
++ Jianzhou Yan, Stephen Lin, Sing Bing Kang, Xiaoou Tang: "*Learning the change for automatic image cropping.*" CVPR (2013) [[pdf]](https://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Yan_Learning_the_Change_2013_CVPR_paper.pdf)
 + Bongwon Suh, Haibin Ling, Benjamin B. Bederson, David W. Jacobs: "*Automatic thumbnail cropping and its effectiveness.*" UIST (2003) [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.12.2949&rep=rep1&type=pdf)
 
 #### Aesthetic Captioning
@@ -65,16 +74,7 @@ Contributions are welcome.  If you wish to contribute, feel free to send a pull 
 + Kuang-Yu Chang, Kung-Hung Lu, Chu-Song Chen: "*Aesthetic Critiques Generation for Photos.*" ICCV (2017) [[pdf]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Chang_Aesthetic_Critiques_Generation_ICCV_2017_paper.pdf) [[code]](https://github.com/kunghunglu/DeepPhotoCritic-ICCV17)
 + Ye Zhou, Xin Lu, Junping Zhang, James Z. Wang: "*Joint image and text representation for aesthetics analysis.*" ACM MM (2016) [[pdf]](https://dl.acm.org/doi/pdf/10.1145/2964284.2967223)
 
-## Datasets
-densely annotated (multiple crops in each image are annotated)
-
-+ FLMS
-+ CPC [[link]](https://github.com/zijunwei/ViewEvaluationNet)
-
-sparsely annotated (only the best crop in each image is annotated)
-
-+ FCDB [[link]](https://github.com/yiling-chen/flickr-cropping-dataset)
-+ GAICD [[link]](https://github.com/HuiZeng/Grid-Anchor-based-Image-Cropping)
+## Aesthetic Assessment Datasets
 
 images with aesthetic score/attribute
 
@@ -87,13 +87,24 @@ images with aesthetic score/attribute
 + PCCD [[link]](https://github.com/kunghunglu/DeepPhotoCritic-ICCV17)
 + AROD [[link]](https://github.com/cgtuebingen/will-people-like-your-image/tree/master/arod)
 
-
 images with aesthetic caption
 
 + AVA-Comments [[paper]](https://dl.acm.org/doi/pdf/10.1145/2964284.2967223)
 + AVA-Reviews [[paper]](https://arxiv.org/pdf/1802.10240.pdf)
 + DPC-Captions [[link]](https://github.com/BestiVictory/DPC-Captions)
 + PCCD [[link]](https://github.com/kunghunglu/DeepPhotoCritic-ICCV17)
+
+## Image Cropping Datasets
+densely annotated (multiple crops in each image are annotated)
+
++ CPC (2018) [[link]](https://github.com/zijunwei/ViewEvaluationNet)
++ GAICD (2019) [[link]](https://github.com/HuiZeng/Grid-Anchor-based-Image-Cropping)
+
+sparsely annotated (only the best crop in each image is annotated)
+
++ ICDB/MSR-ICD (2013) [[link]](https://personal.ie.cuhk.edu.hk/~ccloy/downloads_cuhk_crop_dataset.html)
++ FLMS/HCDB (2014) [[Images]](http://fangchen.org/proj_page/FLMS_mm14/data/radomir500_image/image.tar) [[Crops]](http://fangchen.org/proj_page/FLMS_mm14/data/radomir500_gt/release_data.tar)
++ FCDB (2017) [[link]](https://github.com/yiling-chen/flickr-cropping-dataset)
 
 
 ## Other resources
