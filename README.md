@@ -23,10 +23,10 @@ Contributions are welcome.  If you wish to contribute, feel free to send a pull 
 + Dong Liu, Rohit Puri, Nagendra Kamath, Subhabrata Bhattacharya: "*Composition-aware image aesthetics assessment.*" WACV(2020) [[pdf]](https://openaccess.thecvf.com/content_WACV_2020/papers/Liu_Composition-Aware_Image_Aesthetics_Assessment_WACV_2020_paper.pdf)
 + Weining Wang, Rui Deng: "*Modeling human perception for image aesthetic assessme.*" ICIP (2019) [[pdf]](https://ieeexplore.ieee.org/document/8803749)
 + Vlad Hosu, Bastian Goldlucke, Dietmar Saupe: "*Effective aesthetics prediction with multi-level spatially pooled features.*" CVPR (2019) [[pdf]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Hosu_Effective_Aesthetics_Prediction_With_Multi-Level_Spatially_Pooled_Features_CVPR_2019_paper.pdf) [[code]](https://github.com/subpic/ava-mlsp)
-+ Xin Jin, Le Wu, Geng Zhao, Xiaodong Li, Xiaokun Zhang, Shiming Ge, Dongqing Zou, Bin Zhou, Xinghui Zhou: "*Aesthetic attributes assessment of images.*" ACM MM (2019) [[pdf]](https://arxiv.org/pdf/1907.04983.pdf) 
++ Xin Jin, Le Wu, Geng Zhao, Xiaodong Li, Xiaokun Zhang, Shiming Ge, Dongqing Zou, Bin Zhou, Xinghui Zhou: "*Aesthetic attributes assessment of images.*" ACM MM (2019) [[pdf]](https://arxiv.org/pdf/1907.04983.pdf) [[project]](https://github.com/BestiVictory/DPC-Captions)
 + Leida Li, Hancheng Zhu, Sicheng Zhao, Guiguang Ding, Hongyan Jiang, Allen Tan: "*Personality driven multi-task learning for image aesthetic assessment.*" ICME (2019) [[pdf]](https://ieeexplore.ieee.org/abstract/document/8784759)
 + Ning Ma, Alexey Volkov, Aleksandr Livshits, Pawel Pietrusinski, Houdong Hu, Mark Bolin: "*An universal image attractiveness ranking framework.*" WACV (2019) [[pdf]](https://arxiv.org/pdf/1805.00309.pdf)
-+ Jun-Tae Lee, Han-Ul Kim, Chul Lee, Chang-Su Kim: "*Photographic composition classification and dominant geometric element detection for outdoor scenes.*" JVCIR (2018) [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S1047320318301147)
++ Jun-Tae Lee, Han-Ul Kim, Chul Lee, Chang-Su Kim: "*Photographic composition classification and dominant geometric element detection for outdoor scenes.*" JVCIR (2018) [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S1047320318301147) [[code]](http://mcl.korea.ac.kr/research/Submitted/jtlee_JVCIR2018/code.zip)
 + Katja Thömmes* and Ronald Hübner: "*Instagram likes for architectural photos can be predicted by quantitative balance measures and curvature.*" Front Psychol (2018) [[pdf]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6024014/)
 + Kekai Sheng, Weiming Dong, Chongyang Ma, Xing Mei, Feiyue Huang, Bao-Gang Hu: "*Attention-based multi-patch aggregation for image aesthetic assessment.*" ACM MM (2018) [[pdf]](https://openreview.net/pdf/1cc851d9d7bfc5ec17eedc6498b1601fcb84a40b.pdf) [[code]](https://github.com/Openning07/MPADA)
 + Ning Yu, Xiaohui Shen, Zhe Lin, Radomir Mech, Connelly Barnes: "*Learning to detect multiple photographic defects.*" WACV (2018) [[pdf]](https://arxiv.org/pdf/1612.01635.pdf)
@@ -71,7 +71,7 @@ Contributions are welcome.  If you wish to contribute, feel free to send a pull 
 #### Aesthetic Captioning
 + Xin Jin, Le Wu, Geng Zhao, Xiaodong Li, Xiaokun Zhang, Shiming Ge, Dongqing Zou, Bin Zhou, Xinghui Zhou: "*Aesthetic Attributes Assessment of Images. *" ACM MM (2019) [[pdf]](https://arxiv.org/pdf/1907.04983.pdf) [[code]](https://github.com/BestiVictory/DPC-Captions)
 + Wenshan Wang, Su Yang, Weishan Zhang, Jiulong Zhang: "*Neural aesthetic image reviewer.*" IET Computer Vision (2019) [[pdf]](https://arxiv.org/pdf/1802.10240.pdf)
-+ Kuang-Yu Chang, Kung-Hung Lu, Chu-Song Chen: "*Aesthetic Critiques Generation for Photos.*" ICCV (2017) [[pdf]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Chang_Aesthetic_Critiques_Generation_ICCV_2017_paper.pdf) [[code]](https://github.com/kunghunglu/DeepPhotoCritic-ICCV17)
++ Kuang-Yu Chang, Kung-Hung Lu, Chu-Song Chen: "*Aesthetic Critiques Generation for Photos.*" ICCV (2017) [[pdf]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Chang_Aesthetic_Critiques_Generation_ICCV_2017_paper.pdf) [[code]](https://github.com/kunghunglu/DeepPhotoCritic-ICCV17) [[code]](https://github.com/kunghunglu/DeepPhotoCritic-ICCV17)
 + Ye Zhou, Xin Lu, Junping Zhang, James Z. Wang: "*Joint image and text representation for aesthetics analysis.*" ACM MM (2016) [[pdf]](https://dl.acm.org/doi/pdf/10.1145/2964284.2967223)
 
 ## Datasets
@@ -80,21 +80,25 @@ Contributions are welcome.  If you wish to contribute, feel free to send a pull 
 
 images with aesthetic score/attribute
 
-+ Photo.net [[Dataset Description]](http://wang.ist.psu.edu/~datta/photonet_dataset_description.txt) [[link]](http://wang.ist.psu.edu/~datta/photonet_dataset.txt)
-+ DPChallenge [[Dataset Description]](http://wang.ist.psu.edu/~datta/dpchallenge_dataset_description.txt) [[link]](http://wang.ist.psu.edu/~datta/dpchallenge_dataset.txt)
-+ CUHK-PQ [[link]](http://mmlab.ie.cuhk.edu.hk/archive/CUHKPQ/Dataset.htm)
-+ AVA [[link]](https://academictorrents.com/details/71631f83b11d3d79d8f84efe0a7e12f0ac001460)
-+ FLICKER-AES and REAL-CUR [[link]](https://github.com/alanspike/personalizedImageAesthetics)
-+ AADB [[link]](https://github.com/aimerykong/deepImageAestheticsAnalysis)
-+ PCCD [[link]](https://github.com/kunghunglu/DeepPhotoCritic-ICCV17)
-+ AROD [[link]](https://github.com/cgtuebingen/will-people-like-your-image/tree/master/arod)
++ Photo.net (2006) [[Dataset Description]](http://wang.ist.psu.edu/~datta/photonet_dataset_description.txt) [[Annotation]](http://wang.ist.psu.edu/~datta/photonet_dataset.txt)
++ DPChallenge (2008) [[Dataset Description]](http://wang.ist.psu.edu/~datta/dpchallenge_dataset_description.txt) [[Annotation]](http://wang.ist.psu.edu/~datta/dpchallenge_dataset.txt)
++ CUHK-PQ (2011) [[link]](http://mmlab.ie.cuhk.edu.hk/archive/CUHKPQ/Dataset.htm)
++ AVA (2012) [[link]](https://academictorrents.com/details/71631f83b11d3d79d8f84efe0a7e12f0ac001460)
++ AADB (2016) [[link]](https://github.com/aimerykong/deepImageAestheticsAnalysis)
++ FLICKER-AES and REAL-CUR (2017) [[link]](https://github.com/alanspike/personalizedImageAesthetics)
++ PCCD (2017) [[link]](https://github.com/kunghunglu/DeepPhotoCritic-ICCV17)
++ AROD (2018) [[project]](https://github.com/cgtuebingen/will-people-like-your-image)
 
 images with aesthetic caption
 
-+ AVA-Comments [[paper]](https://dl.acm.org/doi/pdf/10.1145/2964284.2967223)
-+ AVA-Reviews [[paper]](https://arxiv.org/pdf/1802.10240.pdf)
-+ DPC-Captions [[link]](https://github.com/BestiVictory/DPC-Captions)
-+ PCCD [[link]](https://github.com/kunghunglu/DeepPhotoCritic-ICCV17)
++ AVA-Comments (2016) [[paper]](https://dl.acm.org/doi/pdf/10.1145/2964284.2967223)
++ PCCD (2017) [[Download link]](https://drive.google.com/file/d/1hap2UGI9XV5XmxKOo54wZW30OXbqNyo8/view?usp=sharing) 
++ AVA-Reviews (2018) [[paper]](https://arxiv.org/pdf/1802.10240.pdf)
++ DPC-Captions (2019) [[link]](https://github.com/BestiVictory/DPC-Captions) (not available)
+
+image with composition score/label
++ KU-PCP (2018) [[Download Dataset]](http://mcl.korea.ac.kr/research/Submitted/jtlee_JVCIR2018/KU_PCP_Dataset.zip)
++ CADB (2021) [[link]](https://github.com/bcmi/Image-Composition-Assessment-Dataset-CADB)
 
 ### Image Cropping Datasets
 densely annotated (multiple crops in each image are annotated)
