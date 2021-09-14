@@ -74,7 +74,9 @@ Contributions are welcome.  If you wish to contribute, feel free to send a pull 
 + Kuang-Yu Chang, Kung-Hung Lu, Chu-Song Chen: "*Aesthetic Critiques Generation for Photos.*" ICCV (2017) [[pdf]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Chang_Aesthetic_Critiques_Generation_ICCV_2017_paper.pdf) [[code]](https://github.com/kunghunglu/DeepPhotoCritic-ICCV17)
 + Ye Zhou, Xin Lu, Junping Zhang, James Z. Wang: "*Joint image and text representation for aesthetics analysis.*" ACM MM (2016) [[pdf]](https://dl.acm.org/doi/pdf/10.1145/2964284.2967223)
 
-## Aesthetic Assessment Datasets
+## Datasets
+
+### Aesthetic Assessment Datasets
 
 images with aesthetic score/attribute
 
@@ -94,7 +96,7 @@ images with aesthetic caption
 + DPC-Captions [[link]](https://github.com/BestiVictory/DPC-Captions)
 + PCCD [[link]](https://github.com/kunghunglu/DeepPhotoCritic-ICCV17)
 
-## Image Cropping Datasets
+### Image Cropping Datasets
 densely annotated (multiple crops in each image are annotated)
 
 + CPC (2018) [[link]](https://github.com/zijunwei/ViewEvaluationNet)
@@ -107,7 +109,7 @@ sparsely annotated (only the best crop in each image is annotated)
 + FCDB (2017) [[link]](https://github.com/yiling-chen/flickr-cropping-dataset)
 
 
-## Other resources
+<!-- ## Other resources -->
 
 
 
