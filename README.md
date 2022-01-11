@@ -106,7 +106,7 @@ image with composition score/label
 ### Image Cropping Datasets
 densely annotated (multiple crops in each image are annotated)
 
-+ CPC (2018) [[link]](https://github.com/zijunwei/ViewEvaluationNet)
++ CPC (2018) [[link]](https://www3.cs.stonybrook.edu/~cvl/projects/wei2018goods/VPN_CVPR2018s.html)
 + GAICD (2019) [[link]](https://github.com/HuiZeng/Grid-Anchor-based-Image-Cropping)
 
 sparsely annotated (only the best crop in each image is annotated)
