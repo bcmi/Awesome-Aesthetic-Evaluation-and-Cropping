@@ -83,37 +83,35 @@ Contributions are welcome.  If you wish to contribute, feel free to send a pull 
 
 images with aesthetic score/attribute
 
-+ Photo.net (2006) [[Dataset Description]](http://wang.ist.psu.edu/~datta/photonet_dataset_description.txt) [[Annotation]](http://wang.ist.psu.edu/~datta/photonet_dataset.txt)
-+ DPChallenge (2008) [[Dataset Description]](http://wang.ist.psu.edu/~datta/dpchallenge_dataset_description.txt) [[Annotation]](http://wang.ist.psu.edu/~datta/dpchallenge_dataset.txt)
-+ CUHK-PQ (2011) [[link]](http://mmlab.ie.cuhk.edu.hk/archive/CUHKPQ/Dataset.htm)
-+ AVA (2012) [[link]](https://academictorrents.com/details/71631f83b11d3d79d8f84efe0a7e12f0ac001460)
-+ AADB (2016) [[link]](https://github.com/aimerykong/deepImageAestheticsAnalysis)
-+ FLICKER-AES and REAL-CUR (2017) [[link]](https://github.com/alanspike/personalizedImageAesthetics)
-+ PCCD (2017) [[link]](https://github.com/kunghunglu/DeepPhotoCritic-ICCV17)
-+ AROD (2018) [[link]](https://github.com/cgtuebingen/will-people-like-your-image)
++ Photo.net (2006) [[homepage]](https://ritendra.weebly.com/aesthetics-datasets.html)
++ DPChallenge (2008) [[homepage]](https://ritendra.weebly.com/aesthetics-datasets.html)
++ CUHK-PQ (2011) [[homepage]](http://mmlab.ie.cuhk.edu.hk/archive/CUHKPQ/Dataset.htm)
++ AVA (2012) [[homepage]](https://github.com/ylogx/aesthetics/tree/master/data/ava) [[download images]](https://academictorrents.com/details/71631f83b11d3d79d8f84efe0a7e12f0ac001460)
++ AADB (2016) [[homepage]](https://github.com/aimerykong/deepImageAestheticsAnalysis)
++ FLICKER-AES and REAL-CUR (2017) [[homepage]](https://github.com/alanspike/personalizedImageAesthetics)
++ PCCD (2017) [[homepage]](https://github.com/kunghunglu/DeepPhotoCritic-ICCV17)
++ AROD (2018) [[homepage]](https://github.com/cgtuebingen/will-people-like-your-image)
 
 images with aesthetic caption
 
-+ AVA-Comments (2016) [[paper]](https://dl.acm.org/doi/pdf/10.1145/2964284.2967223)
-+ PCCD (2017) [[GoogleDrive]](https://drive.google.com/file/d/1hap2UGI9XV5XmxKOo54wZW30OXbqNyo8/view?usp=sharing) 
-+ AVA-Reviews (2018) [[paper]](https://arxiv.org/pdf/1802.10240.pdf)
-+ DPC-Captions (2019) [[link]](https://github.com/BestiVictory/DPC-Captions) (not available)
++ PCCD (2017) [[download]](https://drive.google.com/file/d/1hap2UGI9XV5XmxKOo54wZW30OXbqNyo8/view?usp=sharing) 
++ DPC-Captions (2019) [[homepage]](https://github.com/BestiVictory/DPC-Captions) (not release)
 
 image with composition score/label
-+ KU-PCP (2018) [[Download Dataset]](http://mcl.korea.ac.kr/research/Submitted/jtlee_JVCIR2018/KU_PCP_Dataset.zip)
-+ CADB (2021) [[link]](https://github.com/bcmi/Image-Composition-Assessment-Dataset-CADB)
++ KU-PCP (2018) [[download]](http://mcl.korea.ac.kr/research/Submitted/jtlee_JVCIR2018/KU_PCP_Dataset.zip)
++ CADB (2021) [[homepage]](https://github.com/bcmi/Image-Composition-Assessment-Dataset-CADB)
 
 ### Image Cropping Datasets
 densely annotated (multiple crops in each image are annotated)
 
-+ CPC (2018) [[link]](https://www3.cs.stonybrook.edu/~cvl/projects/wei2018goods/VPN_CVPR2018s.html)
-+ GAICD (2019) [[link]](https://github.com/HuiZeng/Grid-Anchor-based-Image-Cropping)
++ CPC (2018) [[homepage]](https://www3.cs.stonybrook.edu/~cvl/projects/wei2018goods/VPN_CVPR2018s.html)
++ GAICD (2019) [[homepage]](https://github.com/HuiZeng/Grid-Anchor-based-Image-Cropping)
 
 sparsely annotated (only the best crop in each image is annotated)
 
-+ ICDB/MSR-ICD (2013) [[link]](https://personal.ie.cuhk.edu.hk/~ccloy/downloads_cuhk_crop_dataset.html)
-+ FLMS/HCDB (2014) [[Download Images]](http://fangchen.org/proj_page/FLMS_mm14/data/radomir500_image/image.tar) [[Download Crops]](http://fangchen.org/proj_page/FLMS_mm14/data/radomir500_gt/release_data.tar)
-+ FCDB (2017) [[link]](https://github.com/yiling-chen/flickr-cropping-dataset)
++ ICDB/MSR-ICD (2013) [[homepage]](https://personal.ie.cuhk.edu.hk/~ccloy/downloads_cuhk_crop_dataset.html)
++ FLMS/HCDB (2014) [[download images]](http://fangchen.org/proj_page/FLMS_mm14/data/radomir500_image/image.tar) [[download crops]](http://fangchen.org/proj_page/FLMS_mm14/data/radomir500_gt/release_data.tar)
++ FCDB (2017) [[homepage]](https://github.com/yiling-chen/flickr-cropping-dataset)
 
 
 <!-- ## Other resources -->
