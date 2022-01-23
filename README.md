@@ -86,7 +86,7 @@ images with aesthetic score/attribute
 + Photo.net (2006) [[homepage]](https://ritendra.weebly.com/aesthetics-datasets.html)
 + DPChallenge (2008) [[homepage]](https://ritendra.weebly.com/aesthetics-datasets.html)
 + CUHK-PQ (2011) [[homepage]](http://mmlab.ie.cuhk.edu.hk/archive/CUHKPQ/Dataset.htm)
-+ AVA (2012) [[homepage]](https://github.com/ylogx/aesthetics/tree/master/data/ava) [[download images]](https://academictorrents.com/details/71631f83b11d3d79d8f84efe0a7e12f0ac001460)
++ AVA (2012) [[download]](https://github.com/imfing/ava_downloader)
 + AADB (2016) [[homepage]](https://github.com/aimerykong/deepImageAestheticsAnalysis)
 + FLICKER-AES and REAL-CUR (2017) [[homepage]](https://github.com/alanspike/personalizedImageAesthetics)
 + PCCD (2017) [[homepage]](https://github.com/kunghunglu/DeepPhotoCritic-ICCV17)
