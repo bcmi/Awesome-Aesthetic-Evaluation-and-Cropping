@@ -98,7 +98,7 @@ images with aesthetic caption
 + DPC-Captions (2019) [[homepage]](https://github.com/BestiVictory/DPC-Captions) (not release)
 
 image with composition score/label
-+ KU-PCP (2018) [[download]](http://mcl.korea.ac.kr/research/Submitted/jtlee_JVCIR2018/KU_PCP_Dataset.zip)
++ KU-PCP (2018) [[homepage]](http://mcl.korea.ac.kr/jtlee_jvcir2018/)
 + CADB (2021) [[homepage]](https://github.com/bcmi/Image-Composition-Assessment-Dataset-CADB)
 
 ### Image Cropping Datasets
