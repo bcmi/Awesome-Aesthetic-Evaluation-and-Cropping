@@ -15,7 +15,10 @@ Contributions are welcome.  If you wish to contribute, feel free to send a pull 
 ## Papers
 
 #### Image Aesthetic Assessment
-+ Dongyu She, Yu-Kun Lai, Gaoxiong Yi, Kun Xu: "*Hierarchical layout-Aware graph convolutional network for unified aesthetics assessment.*" CVPR (2021) [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/She_Hierarchical_Layout-Aware_Graph_Convolutional_Network_for_Unified_Aesthetics_Assessment_CVPR_2021_paper.pdf) 
++ Shuai He, Yongchang Zhang, Rui Xie, Dongxiang Jiang, Anlong Ming:"*Rethinking Image Aesthetics Assessment: Models, Datasets and Benchmarks*" IJCAI (2022) [[homepage]](https://github.com/woshidandan/TANet)
++ Yuzhe Yang, Liwu Xu, Leida Li, Nan Qie, Yaqian Li, Peng Zhang, Yandong Guo:"*Personalized Image Aesthetics Assessment with Rich Attributes*" CVPR (2022) [[pdf]](https://arxiv.org/pdf/2203.16754.pdf) [[homepage]](https://web.xidian.edu.cn/ldli/en/dataset.html)
++ Dongyu She, Yu-Kun Lai, Gaoxiong Yi, Kun Xu:"*Hierarchical layout-aware graph convolutional network for unified aesthetics assessment.*" CVPR (2021) [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/She_Hierarchical_Layout-Aware_Graph_Convolutional_Network_for_Unified_Aesthetics_Assessment_CVPR_2021_paper.pdf)
++ Lin Zhao, Meimei Shang, Fei Gao, Rongsheng Li, Fei Huang, Jun Yu:"*Representation learning of image composition for aesthetic prediction.*" Computer Vision and Image Understanding (2020) [[pdf]](https://linkinghub.elsevier.com/retrieve/pii/S1077314220300801)  
 + Jingwen Hou, Sheng Yang, Weisi Lin:"*Object-level attention for aesthetic rating distribution prediction.*" ACM MM (2020) [[pdf]](https://dr.ntu.edu.sg/bitstream/10356/144332/2/Object-level%20attention%20for%20aesthetic%20rating%20distribution%20prediction.pdf)
 + Kekai Sheng, Weiming Dong, Menglei Chai, Guohui Wang, Peng Zhou, Feiyue Huang, Bao-Gang Hu, Rongrong Ji, Chongyang Ma: "*Revisiting image aesthetic assessment via self-supervised feature learning.*" AAAI (2020) [[pdf]](https://arxiv.org/pdf/1911.11419.pdf)
 + Qiuyu Chen, Wei Zhang, Ning Zhou, Peng Lei, Yi Xu, Yu Zheng, Jianping Fan: "*Adaptive fractional dilated convolution network for image aesthetics assessment.*" CVPR (2020) [[pdf]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Adaptive_Fractional_Dilated_Convolution_Network_for_Image_Aesthetics_Assessment_CVPR_2020_paper.pdf)
@@ -91,6 +94,8 @@ images with aesthetic score/attribute
 + FLICKER-AES and REAL-CUR (2017) [[homepage]](https://github.com/alanspike/personalizedImageAesthetics)
 + PCCD (2017) [[homepage]](https://github.com/kunghunglu/DeepPhotoCritic-ICCV17)
 + AROD (2018) [[homepage]](https://github.com/cgtuebingen/will-people-like-your-image)
++ TAD66K (2022) [[homepage]](https://github.com/woshidandan/TANet)
++ PARA (2022) [[homepage]](https://web.xidian.edu.cn/ldli/en/dataset.html)
 
 images with aesthetic caption
 
