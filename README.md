@@ -56,6 +56,7 @@ Contributions are welcome.  If you wish to contribute, feel free to send a pull 
 + Ritendra Datta, Jia Li, and James Z. Wang: "*Algorithmic inferencing of aesthetics and emotion in natural images: An exposition.*" ICIP (2008) [[pdf]](https://www.ri.cmu.edu/pub_files/pub4/datta_ritendra_2008_2/datta_ritendra_2008_2.pdf)
 
 #### Image Cropping
++ Gengyun Jia, Huaibo Huang, Chaoyou Fu, Ran He: "*Rethinking Image Cropping: Exploring Diverse Compositions From Global Views.*" CVPR (2022) [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Jia_Rethinking_Image_Cropping_Exploring_Diverse_Compositions_From_Global_Views_CVPR_2022_paper.pdf)
 + Yang Cheng, Qian Lin, Jan P. Allebach: "*Re-Compose the Image by Evaluating the Crop on More Than Just a Score.*" WACV (2022) [[pdf]](https://openaccess.thecvf.com/content/WACV2022/papers/Cheng_Re-Compose_the_Image_by_Evaluating_the_Crop_on_More_Than_WACV_2022_paper.pdf)
 + Zhiyu Pan, Zhiguo Cao, Kewei Wang, Hao Lu, Weicai Zhong: "*TransView: Inside, Outside, and Across the Cropping View Boundaries.*" ICCV (2021) [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Pan_TransView_Inside_Outside_and_Across_the_Cropping_View_Boundaries_ICCV_2021_paper.pdf)
 + Lei Zhong, Feng-Heng Li, Hao-Zhi Huang, Yong Zhang, Shao-Ping Lu, Jue Wang: "*Aesthetic-guided outward image cropping.*" TOG (2021) [[pdf]](https://www.shaopinglu.net/publications_files/tog21.pdf)
