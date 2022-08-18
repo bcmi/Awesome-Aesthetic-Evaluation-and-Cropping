@@ -15,7 +15,7 @@ Contributions are welcome.  If you wish to contribute, feel free to send a pull 
 ## Papers
 
 #### Image Aesthetic Assessment
-<!-- + Shuai He, Yongchang Zhang, Rui Xie, Dongxiang Jiang, Anlong Ming: "*Rethinking Image Aesthetics Assessment: Models, Datasets and Benchmarks*" IJCAI (2022) [[homepage]](https://github.com/woshidandan/TANet) -->
++ Shuai He, Yongchang Zhang, Rui Xie, Dongxiang Jiang, Anlong Ming: "*Rethinking Image Aesthetics Assessment: Models, Datasets and Benchmarks*" IJCAI (2022) [[pdf]](https://www.ijcai.org/proceedings/2022/0132.pdf) [[code]](https://github.com/woshidandan/TANet)
 + Yuzhe Yang, Liwu Xu, Leida Li, Nan Qie, Yaqian Li, Peng Zhang, Yandong Guo: "*Personalized Image Aesthetics Assessment with Rich Attributes*" CVPR (2022) [[pdf]](https://arxiv.org/pdf/2203.16754.pdf) [[homepage]](https://web.xidian.edu.cn/ldli/en/dataset.html)
 + Dongyu She, Yu-Kun Lai, Gaoxiong Yi, Kun Xu: "*Hierarchical layout-aware graph convolutional network for unified aesthetics assessment.*" CVPR (2021) [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/She_Hierarchical_Layout-Aware_Graph_Convolutional_Network_for_Unified_Aesthetics_Assessment_CVPR_2021_paper.pdf)
 + Hao Lou, Heng Huang, Chaoen Xiao, Xin Jin: "*Aesthetic Evaluation and Guidance for Mobile Photography.*" ACM MM(2021) [[pdf]](https://dl.acm.org/doi/abs/10.1145/3474085.3478557)
