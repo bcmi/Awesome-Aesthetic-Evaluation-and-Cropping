@@ -113,12 +113,13 @@ image with composition score/label
 + CADB (2021) [[homepage]](https://github.com/bcmi/Image-Composition-Assessment-Dataset-CADB)
 
 ### Image Cropping Datasets
-densely annotated (multiple crops in each image are annotated)
+Densely annotated (multiple crops in each image are annotated)
 
 + CPC (2018) [[homepage]](https://www3.cs.stonybrook.edu/~cvl/projects/wei2018goods/VPN_CVPR2018s.html)
 + GAICD (2019) [[homepage]](https://github.com/HuiZeng/Grid-Anchor-based-Image-Cropping)
 + GNMC (2022) [[homepage]](https://github.com/aneeshvartakavi/GNMC)
-sparsely annotated (only the best crop in each image is annotated)
+
+Sparsely annotated (only the best crop in each image is annotated)
 
 + ICDB/MSR-ICD (2013) [[homepage]](https://personal.ie.cuhk.edu.hk/~ccloy/downloads_cuhk_crop_dataset.html)
 + FLMS/HCDB (2014) [[download images]](http://fangchen.org/proj_page/FLMS_mm14/data/radomir500_image/image.tar) [[download crops]](http://fangchen.org/proj_page/FLMS_mm14/data/radomir500_gt/release_data.tar)
