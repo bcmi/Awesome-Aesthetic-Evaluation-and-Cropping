@@ -58,6 +58,7 @@ Contributions are welcome.  If you wish to contribute, feel free to send a pull 
 #### Image Cropping
 + Gengyun Jia, Huaibo Huang, Chaoyou Fu, Ran He: "*Rethinking Image Cropping: Exploring Diverse Compositions From Global Views.*" CVPR (2022) [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Jia_Rethinking_Image_Cropping_Exploring_Diverse_Compositions_From_Global_Views_CVPR_2022_paper.pdf)
 + Yang Cheng, Qian Lin, Jan P. Allebach: "*Re-Compose the Image by Evaluating the Crop on More Than Just a Score.*" WACV (2022) [[pdf]](https://openaccess.thecvf.com/content/WACV2022/papers/Cheng_Re-Compose_the_Image_by_Evaluating_the_Crop_on_More_Than_WACV_2022_paper.pdf)
++ C. L. Christensen and A. Vartakavi, "An Experience-Based Direct Generation Approach to Automatic Image Cropping, [IEEE Access](https://ieeexplore.ieee.org/document/9500226/)
 + Zhiyu Pan, Zhiguo Cao, Kewei Wang, Hao Lu, Weicai Zhong: "*TransView: Inside, Outside, and Across the Cropping View Boundaries.*" ICCV (2021) [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Pan_TransView_Inside_Outside_and_Across_the_Cropping_View_Boundaries_ICCV_2021_paper.pdf)
 + Lei Zhong, Feng-Heng Li, Hao-Zhi Huang, Yong Zhang, Shao-Ping Lu, Jue Wang: "*Aesthetic-guided outward image cropping.*" TOG (2021) [[pdf]](https://www.shaopinglu.net/publications_files/tog21.pdf)
 + Chaoyi Hong, Shuaiyuan Du, Ke Xian, Hao Lu, Zhiguo Cao, Weicai Zhong: "*Composing photos like a photographer.*" CVPR (2021) [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Hong_Composing_Photos_Like_a_Photographer_CVPR_2021_paper.pdf) [[code]](https://github.com/bo-zhang-cs/CACNet-Pytorch)
@@ -116,7 +117,7 @@ densely annotated (multiple crops in each image are annotated)
 
 + CPC (2018) [[homepage]](https://www3.cs.stonybrook.edu/~cvl/projects/wei2018goods/VPN_CVPR2018s.html)
 + GAICD (2019) [[homepage]](https://github.com/HuiZeng/Grid-Anchor-based-Image-Cropping)
-
++ GNMC (2022) [[homepage]](https://github.com/aneeshvartakavi/GNMC)
 sparsely annotated (only the best crop in each image is annotated)
 
 + ICDB/MSR-ICD (2013) [[homepage]](https://personal.ie.cuhk.edu.hk/~ccloy/downloads_cuhk_crop_dataset.html)
