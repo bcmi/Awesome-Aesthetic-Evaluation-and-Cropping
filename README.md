@@ -15,6 +15,8 @@ Contributions are welcome.  If you wish to contribute, feel free to send a pull 
 ## Papers
 
 #### Image Aesthetic Assessment
++ Ran Yi, Haoyuan Tian, Zhihao Gu, Yu-Kun Lai, Paul L. Rosin: "*Towards Artistic Image Aesthetics Assessment: a Large-scale Dataset and a New Method*" CVPR (2023) [[pdf]](https://arxiv.org/abs/2303.15166) [[dataset]](https://github.com/Dreemurr-T/BAID)
++ Junjie Ke, Keren Ye, Jiahui Yu, Yonghui Wu, Peyman Milanfar, Feng Yang: "*VILA: Learning Image Aesthetics from User Comments with Vision-Language Pretraining*" CVPR (2023) [[pdf]](https://arxiv.org/abs/2303.14302)
 + Shuai He, Yongchang Zhang, Rui Xie, Dongxiang Jiang, Anlong Ming: "*Rethinking Image Aesthetics Assessment: Models, Datasets and Benchmarks*" IJCAI (2022) [[pdf]](https://www.ijcai.org/proceedings/2022/0132.pdf) [[code]](https://github.com/woshidandan/TANet)
 + Yuzhe Yang, Liwu Xu, Leida Li, Nan Qie, Yaqian Li, Peng Zhang, Yandong Guo: "*Personalized Image Aesthetics Assessment with Rich Attributes*" CVPR (2022) [[pdf]](https://arxiv.org/pdf/2203.16754.pdf) [[homepage]](https://web.xidian.edu.cn/ldli/en/dataset.html)
 + Dongyu She, Yu-Kun Lai, Gaoxiong Yi, Kun Xu: "*Hierarchical layout-aware graph convolutional network for unified aesthetics assessment.*" CVPR (2021) [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/She_Hierarchical_Layout-Aware_Graph_Convolutional_Network_for_Unified_Aesthetics_Assessment_CVPR_2021_paper.pdf)
@@ -56,6 +58,7 @@ Contributions are welcome.  If you wish to contribute, feel free to send a pull 
 + Ritendra Datta, Jia Li, and James Z. Wang: "*Algorithmic inferencing of aesthetics and emotion in natural images: An exposition.*" ICIP (2008) [[pdf]](https://www.ri.cmu.edu/pub_files/pub4/datta_ritendra_2008_2/datta_ritendra_2008_2.pdf)
 
 #### Image Cropping
++ Wang Chao, Li Niu, Bo Zhang, Liqing Zhang: "*Image Cropping with Spatial-aware Feature and Rank Consistency.*" CVPR (2023)
 + Gengyun Jia, Huaibo Huang, Chaoyou Fu, Ran He: "*Rethinking Image Cropping: Exploring Diverse Compositions From Global Views.*" CVPR (2022) [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Jia_Rethinking_Image_Cropping_Exploring_Diverse_Compositions_From_Global_Views_CVPR_2022_paper.pdf)
 + Yang Cheng, Qian Lin, Jan P. Allebach: "*Re-Compose the Image by Evaluating the Crop on More Than Just a Score.*" WACV (2022) [[pdf]](https://openaccess.thecvf.com/content/WACV2022/papers/Cheng_Re-Compose_the_Image_by_Evaluating_the_Crop_on_More_Than_WACV_2022_paper.pdf)
 + Zhiyu Pan, Zhiguo Cao, Kewei Wang, Hao Lu, Weicai Zhong: "*TransView: Inside, Outside, and Across the Cropping View Boundaries.*" ICCV (2021) [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Pan_TransView_Inside_Outside_and_Across_the_Cropping_View_Boundaries_ICCV_2021_paper.pdf)
@@ -101,6 +104,7 @@ images with aesthetic score/attribute
 + AROD (2018) [[homepage]](https://github.com/cgtuebingen/will-people-like-your-image)
 + TAD66K (2022) [[homepage]](https://github.com/woshidandan/TANet)
 + PARA (2022) [[homepage]](https://web.xidian.edu.cn/ldli/en/dataset.html)
++ Boldbrush Artistic Image Dataset (BAID) (2023) [[homepage]](https://github.com/Dreemurr-T/BAID)
 
 images with aesthetic caption
 
