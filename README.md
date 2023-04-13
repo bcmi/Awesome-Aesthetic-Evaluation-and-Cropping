@@ -36,7 +36,7 @@ Contributions are welcome.  If you wish to contribute, feel free to send a pull 
 + Leida Li, Hancheng Zhu, Sicheng Zhao, Guiguang Ding, Hongyan Jiang, Allen Tan: "*Personality driven multi-task learning for image aesthetic assessment.*" ICME (2019) [[pdf]](https://ieeexplore.ieee.org/abstract/document/8784759)
 + Ning Ma, Alexey Volkov, Aleksandr Livshits, Pawel Pietrusinski, Houdong Hu, Mark Bolin: "*An universal image attractiveness ranking framework.*" WACV (2019) [[pdf]](https://arxiv.org/pdf/1805.00309.pdf)
 + Jun-Tae Lee, Han-Ul Kim, Chul Lee, Chang-Su Kim: "*Photographic composition classification and dominant geometric element detection for outdoor scenes.*" JVCIR (2018) [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S1047320318301147) [[code]](http://mcl.korea.ac.kr/research/Submitted/jtlee_JVCIR2018/code.zip)
-+ Katja Thömmes* and Ronald Hübner: "*Instagram likes for architectural photos can be predicted by quantitative balance measures and curvature.*" Front Psychol (2018) [[pdf]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6024014/)
++ Katja Thömmes and Ronald Hübner: "*Instagram likes for architectural photos can be predicted by quantitative balance measures and curvature.*" Front Psychol (2018) [[pdf]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6024014/)
 + Kekai Sheng, Weiming Dong, Chongyang Ma, Xing Mei, Feiyue Huang, Bao-Gang Hu: "*Attention-based multi-patch aggregation for image aesthetic assessment.*" ACM MM (2018) [[pdf]](https://openreview.net/pdf/1cc851d9d7bfc5ec17eedc6498b1601fcb84a40b.pdf) [[code]](https://github.com/Openning07/MPADA)
 + Ning Yu, Xiaohui Shen, Zhe Lin, Radomir Mech, Connelly Barnes: "*Learning to detect multiple photographic defects.*" WACV (2018) [[pdf]](https://arxiv.org/pdf/1612.01635.pdf)
 + Keunsoo Ko, Jun Tae Lee, Chang-Su Kim: "*PAC-Net: Pairwise aesthetic comparison network for image aesthetic assessment.*" ICIP (2018) [[pdf]](https://ieeexplore.ieee.org/abstract/document/8451621)
@@ -83,7 +83,9 @@ Contributions are welcome.  If you wish to contribute, feel free to send a pull 
 + Bongwon Suh, Haibin Ling, Benjamin B. Bederson, David W. Jacobs: "*Automatic thumbnail cropping and its effectiveness.*" UIST (2003) [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.12.2949&rep=rep1&type=pdf)
 
 #### Aesthetic Captioning
-+ Xin Jin, Le Wu, Geng Zhao, Xiaodong Li, Xiaokun Zhang, Shiming Ge, Dongqing Zou, Bin Zhou, Xinghui Zhou: "*Aesthetic Attributes Assessment of Images. *" ACM MM (2019) [[pdf]](https://arxiv.org/pdf/1907.04983.pdf) [[code]](https://github.com/BestiVictory/DPC-Captions)
++ Junjie Ke, Keren Ye, Jiahui Yu, Yonghui Wu, Peyman Milanfar, Feng Yang: "*VILA: Learning Image Aesthetics from User Comments with Vision-Language Pretraining.*" CVPR (2023) [[pdf]](https://arxiv.org/abs/2303.14302)
++ Koustav Ghosal, Aakanksha Rana, Aljosa Smolic: "*Aesthetic Image Captioning From Weakly-Labelled Photographs.*" ICCVW (2019) [[pdf]](https://arxiv.org/pdf/1908.11310.pdf) [[homepage]](https://github.com/V-Sense/Aesthetic-Image-Captioning-ICCVW-2019)
++ Xin Jin, Le Wu, Geng Zhao, Xiaodong Li, Xiaokun Zhang, Shiming Ge, Dongqing Zou, Bin Zhou, Xinghui Zhou: "*Aesthetic Attributes Assessment of Images.*" ACM MM (2019) [[pdf]](https://arxiv.org/pdf/1907.04983.pdf) [[code]](https://github.com/BestiVictory/DPC-Captions)
 + Wenshan Wang, Su Yang, Weishan Zhang, Jiulong Zhang: "*Neural aesthetic image reviewer.*" IET Computer Vision (2019) [[pdf]](https://arxiv.org/pdf/1802.10240.pdf)
 + Kuang-Yu Chang, Kung-Hung Lu, Chu-Song Chen: "*Aesthetic Critiques Generation for Photos.*" ICCV (2017) [[pdf]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Chang_Aesthetic_Critiques_Generation_ICCV_2017_paper.pdf) [[code]](https://github.com/kunghunglu/DeepPhotoCritic-ICCV17) 
 + Ye Zhou, Xin Lu, Junping Zhang, James Z. Wang: "*Joint image and text representation for aesthetics analysis.*" ACM MM (2016) [[pdf]](https://dl.acm.org/doi/pdf/10.1145/2964284.2967223)
@@ -109,7 +111,8 @@ images with aesthetic score/attribute
 images with aesthetic caption
 
 + PCCD (2017) [[download]](https://drive.google.com/file/d/1hap2UGI9XV5XmxKOo54wZW30OXbqNyo8/view?usp=sharing) 
-+ DPC-Captions (2019) [[homepage]](https://github.com/BestiVictory/DPC-Captions) (not released)
++ DPC-Captions (2019) [[homepage]](https://github.com/BestiVictory/DPC-Captions)
++ AVA-Captions (2019) [[homepage]](https://github.com/V-Sense/Aesthetic-Image-Captioning-ICCVW-2019)
 
 image with composition score/label
 + KU-PCP (2018) [[homepage]](http://mcl.korea.ac.kr/jtlee_jvcir2018/)
