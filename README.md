@@ -15,6 +15,7 @@ Contributions are welcome.  If you wish to contribute, feel free to send a pull 
 ## Papers
 
 #### Image Aesthetic Assessment
++ Yaohui Li, Yuzhe Yang, Huaxiong Li,Haoxing Chen, Liwu Xu, Leida Li, Yaqian Li, Yandong Guo: "*Transductive Aesthetic Preference Propagation for Personalized Image Aesthetics Assessment*" ACM MM (2023) [[pdf]](https://dl.acm.org/doi/10.1145/3503161.3548244)
 + Ran Yi, Haoyuan Tian, Zhihao Gu, Yu-Kun Lai, Paul L. Rosin: "*Towards Artistic Image Aesthetics Assessment: a Large-scale Dataset and a New Method*" CVPR (2023) [[pdf]](https://arxiv.org/abs/2303.15166) [[dataset]](https://github.com/Dreemurr-T/BAID)
 + Junjie Ke, Keren Ye, Jiahui Yu, Yonghui Wu, Peyman Milanfar, Feng Yang: "*VILA: Learning Image Aesthetics from User Comments with Vision-Language Pretraining*" CVPR (2023) [[pdf]](https://arxiv.org/abs/2303.14302)
 + Shuai He, Yongchang Zhang, Rui Xie, Dongxiang Jiang, Anlong Ming: "*Rethinking Image Aesthetics Assessment: Models, Datasets and Benchmarks*" IJCAI (2022) [[pdf]](https://www.ijcai.org/proceedings/2022/0132.pdf) [[code]](https://github.com/woshidandan/TANet)
