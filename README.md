@@ -15,6 +15,8 @@ Contributions are welcome.  If you wish to contribute, feel free to send a pull 
 ## Papers
 
 #### Image Aesthetic Assessment
++ Shuai He, Anlong Ming, Yaqi Li, Jinyuan Sun, ShunTian Zheng, Huadong Ma: "*Thinking Image Color Aesthetics Assessment: Models, Datasets and Benchmarks*" ICCV (2023) [[paper]](https://github.com/woshidandan/Image-Color-Aesthetics-Assessment/blob/main/Paper-PDF-Thinking%20Image%20Color%20Aesthetics%20Assessment%20Models%2C%20Datasets%20and%20Benchmarks.pdf) [[homepage]](https://github.com/woshidandan/Image-Color-Aesthetics-Assessment)
++ Shuai He, Anlong Ming, Shuntian Zheng, Haobin Zhong, Huadong Ma: "*EAT: An Enhancer for Aesthetics-Oriented Transformers.*" ACM MM (2023) [[pdf]](https://github.com/woshidandan/Image-Aesthetics-Assessment/blob/main/Paper-PDF-EAT%20An%20Enhancer%20for%20Aesthetics-Oriented%20Transformers.pdf) [[homepage]](https://github.com/woshidandan/Image-Aesthetics-Assessment/tree/main#eat-an-enhancer-for-aesthetics-oriented-transformers)
 + Yaohui Li, Yuzhe Yang, Huaxiong Li,Haoxing Chen, Liwu Xu, Leida Li, Yaqian Li, Yandong Guo: "*Transductive Aesthetic Preference Propagation for Personalized Image Aesthetics Assessment*" ACM MM (2023) [[pdf]](https://dl.acm.org/doi/10.1145/3503161.3548244)
 + Ran Yi, Haoyuan Tian, Zhihao Gu, Yu-Kun Lai, Paul L. Rosin: "*Towards Artistic Image Aesthetics Assessment: a Large-scale Dataset and a New Method*" CVPR (2023) [[pdf]](https://arxiv.org/abs/2303.15166) [[dataset]](https://github.com/Dreemurr-T/BAID)
 + Junjie Ke, Keren Ye, Jiahui Yu, Yonghui Wu, Peyman Milanfar, Feng Yang: "*VILA: Learning Image Aesthetics from User Comments with Vision-Language Pretraining*" CVPR (2023) [[pdf]](https://arxiv.org/abs/2303.14302)
@@ -109,6 +111,7 @@ images with aesthetic score/attribute
 + TAD66K (2022) [[homepage]](https://github.com/woshidandan/TANet)
 + PARA (2022) [[homepage]](https://web.xidian.edu.cn/ldli/en/dataset.html)
 + Boldbrush Artistic Image Dataset (BAID) (2023) [[homepage]](https://github.com/Dreemurr-T/BAID)
++ Largest Color-oriented Dataset: ICAA17K (2023) [[homepage]](https://github.com/woshidandan/Image-Color-Aesthetics-Assessment)
 
 
 images with aesthetic caption
