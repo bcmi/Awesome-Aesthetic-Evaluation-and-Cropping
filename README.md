@@ -135,7 +135,7 @@ sparsely annotated (only the best crop in each image is annotated)
 + ICDB/MSR-ICD (2013) [[homepage]](https://personal.ie.cuhk.edu.hk/~ccloy/downloads_cuhk_crop_dataset.html)
 + FLMS/HCDB (2014) [[download images]](http://fangchen.org/proj_page/FLMS_mm14/data/radomir500_image/image.tar) [[download crops]](http://fangchen.org/proj_page/FLMS_mm14/data/radomir500_gt/release_data.tar)
 + FCDB (2017) [[homepage]](https://github.com/yiling-chen/flickr-cropping-dataset)
-
++ GNMC (2022) [[homepage]](https://github.com/aneeshvartakavi/GNMC)
 
 <!-- ## Other resources -->
 
