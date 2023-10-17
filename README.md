@@ -61,6 +61,8 @@ Contributions are welcome.  If you wish to contribute, feel free to send a pull 
 + Ritendra Datta, Jia Li, and James Z. Wang: "*Algorithmic inferencing of aesthetics and emotion in natural images: An exposition.*" ICIP (2008) [[pdf]](https://www.ri.cmu.edu/pub_files/pub4/datta_ritendra_2008_2/datta_ritendra_2008_2.pdf)
 
 #### Image Cropping
++ Xiaoyu Liu, Ming Liu, Junyi Li, Shuai Liu, Xiaotao Wang, Lei Lei, Wangmeng Zuo: "*Beyond Image Borders: Learning Feature Extrapolation for Unbounded Image Composition.*" ICCV (2023) [[pdf]](https://openaccess.thecvf.com/content/ICCV2023/html/Liu_Beyond_Image_Borders_Learning_Feature_Extrapolation_for_Unbounded_Image_Composition_ICCV_2023_paper.html) [[code]](https://github.com/liuxiaoyu1104/UNIC) 
++ Zhihang Zhong, Mingxi Cheng, Zhirong Wu, Yuhui Yuan, Yinqiang Zheng, Ji Li, Han Hu, Stephen Lin, Yoichi Sato, Imari Sato: "*ClipCrop: Conditioned Cropping Driven by Vision-Language Model.*" ICCV Workshops (2023) [[pdf]](https://arxiv.org/pdf/2211.11492.pdf)
 + Wang Chao, Li Niu, Bo Zhang, Liqing Zhang: "*Image Cropping with Spatial-aware Feature and Rank Consistency.*" CVPR (2023)
 + Gengyun Jia, Huaibo Huang, Chaoyou Fu, Ran He: "*Rethinking Image Cropping: Exploring Diverse Compositions From Global Views.*" CVPR (2022) [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Jia_Rethinking_Image_Cropping_Exploring_Diverse_Compositions_From_Global_Views_CVPR_2022_paper.pdf)
 + Yang Cheng, Qian Lin, Jan P. Allebach: "*Re-Compose the Image by Evaluating the Crop on More Than Just a Score.*" WACV (2022) [[pdf]](https://openaccess.thecvf.com/content/WACV2022/papers/Cheng_Re-Compose_the_Image_by_Evaluating_the_Crop_on_More_Than_WACV_2022_paper.pdf)
