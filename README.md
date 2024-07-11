@@ -61,6 +61,14 @@ Contributions are welcome.  If you wish to contribute, feel free to send a pull 
 + Ritendra Datta, Jia Li, and James Z. Wang: "*Algorithmic inferencing of aesthetics and emotion in natural images: An exposition.*" ICIP (2008) [[pdf]](https://www.ri.cmu.edu/pub_files/pub4/datta_ritendra_2008_2/datta_ritendra_2008_2.pdf)
 
 #### Image Cropping
++ Zhiyu Pan, Jiahao Cui, Kewei Wang, Yizheng Wu, and Zhiguo Cao. “Pseudo Label Fusion with Uncertainty Estimation for Semi-Supervised Cropping Box Regression.” TMM (2024) [[pdf]](https://ieeexplore.ieee.org/document/10472083)
++ Yukun Su, Yiwen Cao, Jingliang Deng, Fengyun Rao, and Qingyao Wu. “Spatial-Semantic Collaborative Cropping for User Generated Content.” AAAI (2024) [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/28303/28596) [[code]](https://github.com/suyukun666/S2CNet/tree/main)
++ Quan Yuan, Leida Li, and Pengfei Chen. “Aesthetic Image Cropping Meets Vlp: Enhancing Good While Reducing Bad.” SSRN (2024) [[pdf]](https://doi.org/10.2139/ssrn.4879045)
++ James Hong, Lu Yuan, Michaël Gharbi, Matthew Fisher, and Kayvon Fatahalian. “Learning Subject-Aware Cropping by Outpainting Professional Photos.” AAAI (2024) [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/28303/28596) [[code]](https://github.com/jhong93/gencrop)
++ Zhiyu Pan, Yinpeng Chen, Jiale Zhang, Hao Lu, Zhiguo Cao, and Weicai Zhong. “Find Beauty in the Rare: Contrastive Composition Feature Clustering for Nontrivial Cropping Box Regression.” AAAI (2023) [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/25293)
++ GuoYe Yang, WenYang Zhou, Yun Cai, SongHai Zhang, and FangLue Zhang. “Focusing on Your Subject: Deep Subject-Aware Image Composition Recommendation Networks.” Computational Visual Media (2023) [[pdf]](https://link.springer.com/article/10.1007/s41095-021-0263-3) [[dataset]](https://cg.cs.tsinghua.edu.cn/SACD/)
++ Takumi Nishiyasu, Wataru Shimoda, and Yoichi Sato. “Image Cropping under Design Constraints.” ACMMM Asia (2023) [[pdf]](https://arxiv.org/abs/2310.08892) [[code]](https://github.com/CyberAgentAILab/cropping-design-constraints)
++ Tengfei Shi, Chenglizhao Chen, Yuanbo He, Wenfeng Song, and Aimin Hao. “Joint Probability Distribution Regression for Image Cropping.” ICIP (2023) [[pdf]](https://ieeexplore.ieee.org/document/10222223)
 + Xiaoyu Liu, Ming Liu, Junyi Li, Shuai Liu, Xiaotao Wang, Lei Lei, Wangmeng Zuo: "*Beyond Image Borders: Learning Feature Extrapolation for Unbounded Image Composition.*" ICCV (2023) [[pdf]](https://openaccess.thecvf.com/content/ICCV2023/html/Liu_Beyond_Image_Borders_Learning_Feature_Extrapolation_for_Unbounded_Image_Composition_ICCV_2023_paper.html) [[code]](https://github.com/liuxiaoyu1104/UNIC) 
 + Zhihang Zhong, Mingxi Cheng, Zhirong Wu, Yuhui Yuan, Yinqiang Zheng, Ji Li, Han Hu, Stephen Lin, Yoichi Sato, Imari Sato: "*ClipCrop: Conditioned Cropping Driven by Vision-Language Model.*" ICCV Workshops (2023) [[pdf]](https://arxiv.org/pdf/2211.11492.pdf)
 + Wang Chao, Li Niu, Bo Zhang, Liqing Zhang: "*Image Cropping with Spatial-aware Feature and Rank Consistency.*" CVPR (2023) [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_Image_Cropping_With_Spatial-Aware_Feature_and_Rank_Consistency_CVPR_2023_paper.html)
@@ -131,6 +139,9 @@ densely annotated (multiple crops in each image are annotated)
 
 + CPC (2018) [[homepage]](https://www3.cs.stonybrook.edu/~cvl/projects/wei2018goods/VPN_CVPR2018s.html)
 + GAICD (2019) [[homepage]](https://github.com/HuiZeng/Grid-Anchor-based-Image-Cropping)
++ SACD (2023) [[homepage]](https://cg.cs.tsinghua.edu.cn/SACD)
++ SID (2024) [[homepage]](https://github.com/jhong93/gencrop)
++ UGCrop5K (2024) [[homepage]](https://github.com/suyukun666/S2CNet)
 
 sparsely annotated (only the best crop in each image is annotated)
 
